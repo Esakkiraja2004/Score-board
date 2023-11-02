@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/a0/af/f4/a0aff4eaa1a383be5cca55acaaac6823.jpg);
+}
+.card{
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNS12aW50YWdlcGFwZXItdG9uZy0wMi1iLmpwZw.jpg);
+
+}
+.win{
+    color: green;
+}
+
+.lost{
+    color: red;
+}
+.name{
+    color: darkorange;
+}
+.dis{
+    padding-bottom:2rem ;
+    color: beige;
+}
+.fixlable{
+    color: teal;
+    font-family: cursive;
+    font-weight: bold;
+    font-size:x-large;
+}
+#winscr{
+    color:darkorange;
+    background-color:black;
+}
+.sub{
+    color:darkgoldenrod;
+    background-color: rgb(0, 0, 0);
+}
